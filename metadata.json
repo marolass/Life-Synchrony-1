@@ -1,0 +1,6 @@
+{
+  "name": "Life Synchrony",
+  "description": "Biosite completo, elegante e responsivo para o programa Life Synchrony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
